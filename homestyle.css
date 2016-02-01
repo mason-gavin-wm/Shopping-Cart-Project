@@ -1,0 +1,80 @@
+body{
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+}
+#container{
+    background-color:blue;
+    height : 1300px;
+    width: 100%;
+    position: absolute;
+}
+#H-navigation{
+    background-color:red;
+    height : 45px;
+    width : 100%;
+    margin:0 auto;
+    position: absolute;
+
+
+
+}
+#jumbo-slide{
+    background-color:yellow;
+    height : 605px;
+    width : 100%;
+    margin: 45px 0 auto;
+    position: absolute;
+
+
+
+}
+#buttonz-slide{
+    background-color:green;
+    height : 30px;
+    width : 100%;
+    margin: 650px 0 auto;
+    position:absolute;
+
+}
+/*********************************/
+/*********************************/
+/*NOTE Margin: top left right bot*/
+/*********************************/
+/*********************************/
+
+#pic-1{
+    background-color: black;
+    width: 360px;
+    height: 180px;
+    position: absolute;
+    margin: 680px 0 auto;
+
+ }
+
+#pic-2{
+    background-color: purple;
+    width: 360px;
+    height: 180px;
+    position: absolute;
+    margin: 680px 360px auto;
+
+}
+
+#pic-3{
+    background-color: black;
+    width: 360px;
+    height: 180px;
+    position: absolute;
+    margin: 680px 720px auto;
+
+}
+
+#pic-4{
+    background-color: purple;
+    width: 360px;
+    height: 180px;
+    position: absolute;
+    margin: 680px 1080px auto;
+
+}
+
