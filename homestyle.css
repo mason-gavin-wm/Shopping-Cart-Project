@@ -3,23 +3,42 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 #container{
-    background-color:blue;
+    background: linear-gradient(white, #adadad); /* Standard syntax */
+
+
     height : 1300px;
     width: 100%;
     position: absolute;
 }
 #H-navigation{
-    background-color:red;
+    background-color: #313131;
     height : 45px;
     width : 100%;
     margin:0 auto;
     position: absolute;
 
-
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
 }
+li {
+    display: inline;
+    color: #c8c8c8;
+    padding:0 45px 45px 44px;
+}
+a, a:visited{
+    color: #c8c8c8;
+    text-decoration: none;
+}
+a:hover {
+    color: #6b6b6b;
+    text-decoration: none;
+}
 #jumbo-slide{
-    background-color:yellow;
+    background-color:transparent;
     height : 605px;
     width : 100%;
     margin: 45px 0 auto;
@@ -29,7 +48,7 @@ body{
 
 }
 #buttonz-slide{
-    background-color:green;
+    background-color:transparent;
     height : 30px;
     width : 100%;
     margin: 650px 0 auto;
@@ -43,38 +62,53 @@ body{
 /*********************************/
 
 #pic-1{
-    background-color: black;
+    background-color: #d9d9d9;
     width: 360px;
     height: 180px;
     position: absolute;
     margin: 680px 0 auto;
+    border: #a3a3a3 1px solid;
 
  }
 
 #pic-2{
-    background-color: purple;
+    background-color: #d9d9d9;
     width: 360px;
     height: 180px;
     position: absolute;
     margin: 680px 360px auto;
+    border: #a3a3a3 1px solid;
+
 
 }
 
 #pic-3{
-    background-color: black;
+    background-color: #d9d9d9;
     width: 360px;
     height: 180px;
     position: absolute;
     margin: 680px 720px auto;
+    border: #a3a3a3 1px solid;
+
 
 }
 
 #pic-4{
-    background-color: purple;
+    background-color: #d9d9d9;
     width: 360px;
     height: 180px;
     position: absolute;
     margin: 680px 1080px auto;
+    border: #a3a3a3 1px solid;
+
 
 }
+span{
+    margin-left:42%;
+    text-decoration:underline;
+}
+#FQ{
+    margin-left:34%;
+    text-decoration:underline;
 
+}

@@ -20,13 +20,37 @@
 
             <div id="H-navigation">
 
-    </div>
+                <ul>
 
-</div>
+                    <li>
+                        <a href="#">
+                            <img src="http://cdn.osxdaily.com/wp-content/uploads/2010/10/giant-apple-logo-bw.png" style="width:1.2%;height:1.2%;margin:1% 2% auto;">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="products.php">Products</a>
+                    </li>
+                    <li>
+                        <a href="shopping_cart.php">Shopping Cart</a>
+                    </li>
+                    <li>
+                        <a href="checkout.php">Checkout</a>
+                    </li>
+                    <li>
+                        <a href="personal_profile.php">Personal Profile</a>
+                    </li>
+
+
+
+                </ul>
+
+
+            </div>
 
             <div id="jumbo-slide">
 
 </div>
+
 
 
 <div id="buttonz-slide">
@@ -34,25 +58,40 @@
 </div>
 
 
-    <div id="content">
+    <div id="content-pic">
 
         <div id="pic-1">
 
-    </div>
+            <span>News</span>
+
+
+        </div>
 
         <div id="pic-2">
 
-    </div>
+            <span>About</span>
+
+
+        </div>
 
         <div id="pic-3">
 
-    </div>
+            <span>Contact</span>
+
+
+        </div>
 
         <div id="pic-4">
 
-    </div>
+            <div id="FQ">Frequent Questions</div>
+
+
+        </div>
+
 
     </div>
+
+</div>
 
 
 </body>
