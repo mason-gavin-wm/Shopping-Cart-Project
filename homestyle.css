@@ -1,6 +1,7 @@
 body{
     margin: 0 auto;
     font-family: 'Raleway', sans-serif;
+    padding:0;
 }
 #container{
     background: linear-gradient(white, #adadad); /* Standard syntax */
@@ -27,7 +28,7 @@ ul {
 li {
     display: inline;
     color: #c8c8c8;
-    padding:0 45px 45px 44px;
+    padding:0 45px 20px 0;
 }
 a, a:visited{
     color: #c8c8c8;
@@ -43,7 +44,7 @@ a:hover {
     width : 100%;
     margin: 45px 0 auto;
     position: absolute;
-
+    z-index: -1;
 
 
 }
@@ -110,5 +111,65 @@ span{
 #FQ{
     margin-left:34%;
     text-decoration:underline;
+
+}
+/****************/
+/*DROP DOWN MENU*/
+/****************/
+
+nav ul ul{
+    display: none;
+
+}
+nav ul li:hover > ul{
+    display:block;
+}
+nav ul {
+    list-style:none;
+    position: relative;
+    display: inline-table;
+    margin:0;
+    padding:0;
+
+}
+nav ul:after{
+    content: "";
+    clear: both;
+    display: block;
+}
+nav ul li {
+    float: left;
+    margin-left:10px;
+    height:150px;
+}
+nav ul li.hover{
+    margin-top:15px;
+    padding:auto;
+    position: relative;
+}
+nav > ul > li {
+    text-align: center;
+}
+
+nav ul li a {
+    display: block;
+    color: #757575;
+    text-decoration: none;
+    padding-top:5px;
+    padding-bottom:5px;
+
+}
+
+nav ul ul li {
+    float: none;
+    position: relative;
+    padding-right: 0;
+    padding-top:5px;
+    color: #212121;
+}
+
+nav ul ul li a:hover {
+    background: #d8d8d8;
+
 
 }
