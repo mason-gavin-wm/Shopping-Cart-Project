@@ -35,10 +35,6 @@
                         </ul>
                     </li>
 
-                    <li class="hover"><a href="shopping_cart.php">Shopping Cart</a>
-
-                    </li>
-
                     <li class="hover"><a href="personal_profile.php">Profile</a>
                         <ul>
                             <li><a href="#">link</a></li>
