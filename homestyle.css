@@ -116,7 +116,9 @@ span{
 /****************/
 /*DROP DOWN MENU*/
 /****************/
-
+nav{
+    height:auto;
+}
 nav ul ul{
     display: none;
 
@@ -146,10 +148,9 @@ nav ul li.hover{
     margin-top:15px;
     padding:auto;
     position: relative;
+    z-index:1;
 }
-nav > ul > li {
-    text-align: center;
-}
+
 
 nav ul li a {
     display: block;
@@ -173,3 +174,91 @@ nav ul ul li a:hover {
 
 
 }
+/************************************/
+/************************************/
+/*THIS IS THE CSS FOR THE SLIDE SHOW*/
+/************************************/
+/************************************/
+#quickslider{
+    width:100%;
+    margin:45px auto;
+    height: 650px;
+    position: absolute;
+    z-index:0;
+}
+.quickslider{
+    position: relative;
+    float: left;
+    display: block;
+    width: 100%;
+    height:400px;
+}
+.quickslider img{
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-thumbs{
+    position: absolute;
+    clear:both;
+    bottom:15px;
+    left:42%;
+}
+.nav-thumbs ul{
+    list-style-type: none;
+}
+.nav-thumbs ul li{
+    float:left;
+    margin-top:20px;
+}
+.nav-thumbs ul li a{
+    display:block;
+    width:10px;
+    height:10px;
+    float: left;
+    margin:0 5px;
+    background-color: #fff;
+    text-indent: -9999px;
+    border-radius: 10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+.nav-thumbs ul li a:hover, .nav-thumbs ul li a.active{
+    background-color: #a89d8a !important;
+}
+.active{
+    background-color: #a89d8a !important;
+}
+
+.quickslider-nav{
+    position:relative;
+    clear:both;
+    color:#000;
+    margin-bottom:100px;
+}
+.quickslider-nav a{
+    text-decoration: none;
+}
+.quickslider-nav .left{
+    float: left;
+    background-color: #fff;
+    padding:5px 10px;
+    margin-top:170px;
+}
+.quickslider-nav .right{
+    float: right;
+    background-color: #fff;
+    padding:5px 10px;
+    margin-top:170px;
+
+}
+.quickslider-nav .left:hover, .quickslider-nav .right:hover{
+    background-color: #000;
+    color:#fff;
+}
+/************************************/
+/************************************/
+/*****THIS IS THE END SLIDESHOW******/
+/************************************/
+/************************************/

@@ -9,9 +9,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Techno Now</title>
+    <title>NAME_OF_SITE</title>
     <link rel="stylesheet" type="text/css" href="homestyle.css">
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <script src="jquery copy.js"></script>
+    <script src="java.js"></script>
 </head>
 
 <body>
@@ -46,9 +48,30 @@
             </nav>
         </div>
 
-            <div id="jumbo-slide">
 
-</div>
+
+                <div id="quickslider">
+                    <div class="quickslider" >
+                        <img  id="1" src="http://www.i-teach.org.uk/uploads/iPad-Air-The-Power-Of-Lightness.png">
+                        <img  id="2" src="http://www.iphone6updates.us/wp-content/uploads/2013/04/Apple-iPhone-6-Concept-45.jpg">
+                        <img  id="3" src="http://wallpapershome.com/images/wallpapers/apple-watch-3840x2160-watches-wallpaper-5k-4k-review-iwatch-apple-3515.jpg">
+                    </div><!--quickslider-->
+
+                    <div class="nav-thumbs">
+                        <ul>
+                            <li><a href="#" class="1">1</a></li>
+                            <li><a href="#" class="2">2</a></li>
+                            <li><a href="#" class="3">3</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="quickslider-nav" >
+                        <a href="#" class="left">Prev</a>
+                        <a href="#" class="right" onclick="next(); return false;">Next</a>
+                    </div>
+                </div><!--quickslider-->
+
+
 
 
 
