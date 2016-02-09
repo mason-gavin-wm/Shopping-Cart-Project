@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>iApple</title>
+    <title>iApple - Products</title>
     <link rel="stylesheet" type="text/css" href="homestyle.css">
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <script src="jquery copy.js"></script>
@@ -48,25 +48,37 @@
 
         </nav>
     </div>
-   
 
-<h1 style="margin-top:100px;margin-left:45%;position:absolute;text-decoration: underline">THESE PRODUCTS ARE THE BEST AROUND</h1>
-    <br><br>
-    <p class="text" style="margin-top:175px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
-    <p class="text" style="margin-top:310px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
-    <p class="text" style="margin-top:450px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
+    <section class="slideshow">
+        <div class="slideshow-container slide">
+            <img src="http://www.imore.com/sites/imore.com/files/styles/xlarge_wm_blw/public/field/image/2015/05/apple-watch-two-iphones-hero.jpg?itok=n-r8yRgW" style="width:100%;height:100%;"/>
+        </div>
+    </section>
+
+<h1 style="margin-top:220px;margin-left:25%;position:absolute;text-decoration: underline">THESE PRODUCTS ARE THE BEST AROUND</h1>
+    <br><br><br>
+    <p class="text" style="margin-top:215px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
+    <br>
+    <p class="text" style="margin-top:275px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
 
     <div id="content-pic">
+
+        <a href="iPad.php" style="color:black;">
+
 
         <div id="pic-1">
 
             <span>iPad's</span>
             <img src="https://wallpaperscraft.com/image/ipad_pro_apple_ipad_104327_3840x2400.jpg" style="position:absolute;width: 50.3%;height: 180px;">
-            <br>iPad's are even cooler than them all!
+            <p>iPad's are even cooler than <br>them all!</p>
 
 
 
         </div>
+            </a>
+
+
+        <a href="iPhone.php" style="color:black;">
 
         <div id="pic-2">
 
@@ -76,14 +88,17 @@
 
 
         </div>
+            </a>
 
-        <div id="pic-3">
+        <a href="watch.php" style="color:black;">
+            <div id="pic-3">
 
             <span>Apple Watch's</span>
             <img src="https://i.ytimg.com/vi/9T4-efI_7L0/maxresdefault.jpg" style="position:absolute;width: 35.3%;height: 180px;">
             <p>Apple Watch's are cool!</p>
 
         </div>
+        </a>
 
     </div>
 

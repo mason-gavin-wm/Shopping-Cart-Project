@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>iApple</title>
+    <title>iApple - Checkout</title>
     <link rel="stylesheet" type="text/css" href="homestyle.css">
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <script src="jquery copy.js"></script>
