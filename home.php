@@ -76,7 +76,7 @@
             <span>About</span>
             <p>iApple is all about selling the newest iPad's, iPhone's, and Apple Watch's at an affordable price to people like you who want the best products, but not there prices.</p>
             <p>Every product is brand new and not open or used at all, we believe to make everyone up to date in today's fast pace modern times in technology.</p>
-            <p>To learn more about our company click <a href="about.php" style="text-decoration: underline">Here</a></p>
+            <p>To learn more about our company click <a href="about.php" style="text-decoration: underline; color:orange;">Here</a></p>
 
 
         </div>
