@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Watch's</title>
+    <title>iApple - Watch's</title>
     <link rel="stylesheet" type="text/css" href="homestyle.css">
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <script src="jquery copy.js"></script>
@@ -54,38 +54,76 @@
 
 
 
+    <section class="slideshow">
 
+        <div class="slideshow-container slide">
+            <img src="http://cdn.bmwblog.com/wp-content/uploads/2015/04/Apple-Watch-models.jpg" style="width:100%;height:100%;"/>
+        </div>
 
-
-
-
-    <div id="buttonz-slide">
-
-    </div>
+    </section>
 
 
     <div id="content-pic">
 
-        <div id="pic-1">
+        <div id="pic-1" style="height:500px;">
 
-            <span>News</span>
-            <p>News about the watch</p>
+            <span>Watch</span>
+
+            <img src="http://betanews.com/wp-content/uploads/2015/03/apple-watch-steel.jpg" style="width:100%;height:50%;">
+
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                    <div>sadfasdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
 
         </div>
 
-        <div id="pic-2">
+        <div id="pic-2" style="height:500px;">
 
-            <span>About</span>
-            <p>About the watch</p>
+            <span>Watch Sport</span>
 
+
+            <img src="http://i-cdn.phonearena.com/images/articles/179791-image/Apple-Watch-Sport.jpg" style="width:100%;height:50%;">
+
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                    <div>asdfasdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
         </div>
 
-        <div id="pic-3">
+        <div id="pic-3" style="height:500px;">
 
-            <span>Contact</span>
-            <p>If watch is broken call this</p>
+            <span>Watch Edition</span>
+
+            <img src="http://www.valuewalk.com/wp-content/uploads/2015/03/AW_Edition.jpg" style="width:100%;height:50%;">
+
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                    <div>asdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
 
         </div>

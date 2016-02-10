@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>iPhone's</title>
+    <title>iApple - iPhone's</title>
     <link rel="stylesheet" type="text/css" href="homestyle.css">
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <script src="jquery copy.js"></script>
@@ -51,40 +51,79 @@
         </nav>
     </div>
 
-    
 
 
+    <section class="slideshow">
 
+        <div class="slideshow-container slide">
+            <img src="http://cdn2.pcadvisor.co.uk/cmsdata/reviews/3572846/iPhone_6_PLUS_preview_MG_1834.jpg" style="width:100%;height:100%;"/>
+        </div>
 
-
-    <div id="buttonz-slide">
-
-    </div>
-
+    </section>
 
     <div id="content-pic">
 
-        <div id="pic-1">
+        <div id="pic-1" style="height:500px;">
 
-            <span>News</span>
-            <p>News about the iPhone</p>
+            <span>iPone 6s Plus </span>
 
+            <img src="http://img-teknosa.mncdn.com/TeknosaImg/productImages/1024x783/125071341-1-iphone_6_plus_16_gb_silver_akilli_telefon.jpg" style="width:100%;height:50%;">
+
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                        <div>sadfasdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
 
         </div>
 
-        <div id="pic-2">
+        <div id="pic-2" style="height:500px;">
 
-            <span>About</span>
-            <p>About the iPhone</p>
+            <span>iPone 6s</span>
 
+            <img src="http://www.webantics.com/content/images/thumbs/0034787_apple-iphone-6s-plus-silicone-case-antique-white.jpeg" style="width:100%;height:50%;">
+
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                        <div>asdfasdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
         </div>
 
-        <div id="pic-3">
+        <div id="pic-3" style="height:500px;">
 
-            <span>Contact</span>
-            <p>Call this is iPhone is broken</p>
+            <span>iPone 5s </span>
+
+            <img src="https://www.houseofphonesng.com/wp-content/uploads/2015/11/iphone-5s-white.png" style="width:100%;height:50%;">
+
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                        <div>asdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
 
         </div>

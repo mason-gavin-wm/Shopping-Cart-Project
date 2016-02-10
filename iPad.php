@@ -49,40 +49,78 @@
             </ul>
 
         </nav>
+
     </div>
 
 
     <section class="slideshow">
+
         <div class="slideshow-container slide">
             <img src="http://www.i-teach.org.uk/uploads/iPad-Air-The-Power-Of-Lightness.png" style="width:100%;height:100%;"/>
         </div>
+
     </section>
 
     <div id="content-pic">
 
-        <div id="pic-1">
+        <div id="pic-1" style="height:500px;">
 
-            <span>News</span>
-            <p>News about the iPad</p>
+            <span>iPad Pro </span>
 
+            <img src="http://www.notebookcheck.net/typo3temp/_processed_/csm_4_zu_3_teaser_09_08a6d2673b.jpg" style="width:100%;height:50%;">
+
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                    <div>sadfasdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
 
         </div>
 
-        <div id="pic-2">
+        <div id="pic-2" style="height:500px;">
 
-            <span>About</span>
-            <p>About the iPad</p>
+            <span>iPad Air 2</span>
 
+            <img src="http://content.abt.com/image.php/1_MGTX2LLA.jpg?image=/images/products/BDP_Images/1_MGTX2LLA.jpg&canvas=1&quality=100&min_w=450&min_h=320&ck=373" style="width:100%;height:50%;">
 
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                    <div>asdfasdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
         </div>
 
-        <div id="pic-3">
+        <div id="pic-3" style="height:500px;">
 
-            <span>Contact</span>
-            <p>If iPad is broken call this</p>
+            <span>iPad Air</span>
 
+            <img src="http://b-i.forbesimg.com/patrickmoorhead/files/2013/11/iPad-Air.jpg" style="width:100%;height:50%;">
+
+            <div>Price:</div>
+
+                <h4>Features:</h4>
+
+                    <div>asdfasdf</div>
+
+            <button style="margin-left:38%">Add to Cart!</button>
+                    <br>
+                            <div style="margin-left:44%">OR</div>
+
+            <button style="margin-left:39%">Buy Now!</button>
 
 
         </div>

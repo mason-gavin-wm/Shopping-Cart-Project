@@ -57,58 +57,34 @@
         </nav>
     </div>
 
+    <div id="content-more-info" style="position:absolute;margin-top:125px;width:100%;">
 
-    <section class="slideshow">
-        <div class="slideshow-container slide">
-            <img src="http://image4.pushauction.com/0/0/043ca1bb-8815-4e61-b4fa-0b35b5fbf84a/8f561aa7-a326-47cb-93ae-05a6b6f8fe19.jpg" style="width:100%;height:100%;"/>
-        </div>
-    </section>
+        <h2 style="text-decoration: underline; font-size: 30px; text-align:center;">About</h2>
 
+            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
+            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
-    <div id="content-pic" >
+            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
-        <div id="pic-1">
+            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
-            <span>News</span>
-            <p><strong>Latest News:</strong> iApple have received a new shipment of iPad Pro's, iPad Air 2's, and iPad Air's! All starting from $600 or less!</p>
-            <p><strong>Jan. 8 2016:</strong> iApple have received a new shipment of iPhone 6s plus, iPone 6s, and iPhone 5s! Each Starting from $300 or less!</p>
-            <p><strong>Jan. 5 2016:</strong> iApple have received a new shipment of Apple Watches! In a variety of color (black, white, silver) and pricing starting from $650!</p>
+            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
 
+        <h2 style="text-decoration: underline; font-size: 30px; text-align:center;">What do we sell?</h2>
 
-        </div>
+                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
-        <div id="pic-2">
+                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
-            <span>About</span>
-            <p>iApple is all about selling the newest iPad's, iPhone's, and Apple Watch's at an affordable price to people like you who want the best products, but not there prices.</p>
-            <p>Every product is brand new and not open or used at all, we believe to make everyone up to date in today's fast pace modern times in technology.</p>
-            <p>To learn more about our company click <a href="about.php" style="text-decoration: underline">Here</a></p>
+                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
+        <h2 style="text-decoration: underline; font-size: 30px; text-align:center;">How did we come to be?</h2>
 
-        </div>
+                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
-        <div id="pic-3">
-
-            <span>Contact</span>
-            <p><strong>To contact customer support</strong> please call the number below:<br>132-123-5678<br>
-                <strong>To report any problems</strong> your electronic may happen please call the number below:<br>654-937-0173 <br>
-                <strong>Or send an email</strong> to this address:<br>
-                iSupport@iapple.org</p>
-
-
-
-        </div>
-
-
-    </div>
-
-    <div id="content-more-info" style="position:absolute;margin-top:150px;margin-left:46%">
-
-        <h2>sdfasdfd </h2>
-
-
+                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
 
 
 

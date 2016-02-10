@@ -55,50 +55,47 @@
         </div>
     </section>
 
-<h1 style="margin-top:220px;margin-left:25%;position:absolute;text-decoration: underline">THESE PRODUCTS ARE THE BEST AROUND</h1>
-    <br><br><br>
-    <p class="text" style="margin-top:215px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
-    <br>
-    <p class="text" style="margin-top:275px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
+<h1 style="margin-top:230px;margin-left:25%;position:absolute;text-decoration: underline">THESE PRODUCTS ARE THE BEST AROUND</h1>
+    <p class="text" style="margin-top:295px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
 
-    <div id="content-pic">
 
-        <a href="iPad.php" style="color:black;">
+    <div id="content-pic" >
 
 
         <div id="pic-1">
 
             <span>iPad's</span>
-            <img src="https://wallpaperscraft.com/image/ipad_pro_apple_ipad_104327_3840x2400.jpg" style="position:absolute;width: 50.3%;height: 180px;">
-            <p>iPad's are even cooler than <br>them all!</p>
 
-
+            <img src="http://www.i-teach.org.uk/uploads/iPad-Air-The-Power-Of-Lightness.png" style="width: 100%;height: 60%;">
+                <p>Our iPad's are the best, click <a href="iPad.php" style="color:orange;">Here</a> to check some</p>
+                <p>of check some of them out!</p>
 
         </div>
-            </a>
 
 
-        <a href="iPhone.php" style="color:black;">
+
+
 
         <div id="pic-2">
 
             <span>iPhone's</span>
-            <img src="http://cdn2.macworld.co.uk/cmsdata/reviews/3623611/iphone_6s_review_60.jpg" style="position:absolute;width: 50.3%;height: 180px;">
-            <p>iPhone's are the best!</p>
 
+            <img src="http://cdn2.pcadvisor.co.uk/cmsdata/reviews/3572846/iPhone_6_PLUS_preview_MG_1834.jpg" style="width: 100%;height: 60%;">
+                <p>Our iPhone's are the best, click <a href="iPhone.php" style="color:orange;">Here</a> to check some</p>
+                <p>of check some of them out!</p>
 
         </div>
-            </a>
 
-        <a href="watch.php" style="color:black;">
+
             <div id="pic-3">
 
             <span>Apple Watch's</span>
-            <img src="https://i.ytimg.com/vi/9T4-efI_7L0/maxresdefault.jpg" style="position:absolute;width: 35.3%;height: 180px;">
-            <p>Apple Watch's are cool!</p>
+
+            <img src="http://cdn.bmwblog.com/wp-content/uploads/2015/04/Apple-Watch-models.jpg" style="width: 100%;height: 60%;">
+                <p>Our watces are the best, click <a href="watch.php" style="color:orange;">Here</a> to check some</p>
+                <p>of check some of them out!</p>
 
         </div>
-        </a>
 
     </div>
 

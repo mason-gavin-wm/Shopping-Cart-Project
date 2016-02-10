@@ -67,6 +67,9 @@ a:hover {
 /*NOTE Margin: top left right bot*/
 /*********************************/
 /*********************************/
+#content-pic{
+    width:100%;
+}
 .text{
     position:absolute;
     margin-top:100px;
@@ -74,35 +77,35 @@ a:hover {
     font-size:17px;
 }
 #pic-1{
-    background-color: #d9d9d9;
+    background-color: #434343;
     width: 33.3%;
-    height: 185px;
-    position: absolute;
+    height:250px;    position: absolute;
     margin: -45px auto;
     border: #a3a3a3 1px solid;
+    color:white;
 
 
 }
 
 #pic-2{
-    background-color: #d9d9d9;
+    background-color: #434343;
     width: 33.3%;
-    height: 185px;
+    height:250px;
     position: absolute;
-    margin: -45px 473px auto;
+    margin: -45px 481px auto;
     border: #a3a3a3 1px solid;
+    color:white;
 
 
 }
 
 #pic-3{
-    background-color: #d9d9d9;
+    background-color: #434343;
     width: 33.3%;
-    height: 185px;
-    position: absolute;
-    margin: -45px 947px auto;
+    height:250px;    position: absolute;
+    margin: -45px 960px auto;
     border: #a3a3a3 1px solid;
-
+    color:white;
 
 }
 p{
@@ -112,6 +115,7 @@ p{
 }
 
 span{
+    font-size:20px;
     margin-left:42%;
     text-decoration:underline;
 }
@@ -128,6 +132,9 @@ nav ul ul{
 }
 nav ul li:hover > ul{
     display:block;
+    background-color: rgba(67, 67, 67, 0.48);
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
 }
 nav ul {
     list-style:none;
@@ -135,6 +142,7 @@ nav ul {
     display: inline-table;
     margin:0;
     padding:0;
+
 
 }
 nav ul:after{
@@ -146,21 +154,22 @@ nav ul li {
     float: left;
     margin-left:10px;
     height:150px;
+
 }
 nav ul li.hover{
     margin-top:15px;
     padding:auto;
     position: relative;
     z-index:1;
-}
 
+}
 
 nav ul li a {
     display: block;
-    color: #757575;
     text-decoration: none;
     padding-top:5px;
     padding-bottom:5px;
+
 
 }
 
@@ -169,11 +178,13 @@ nav ul ul li {
     position: relative;
     padding-right: 0;
     padding-top:5px;
-    color: #212121;
+
 }
 
 nav ul ul li a:hover {
     background: #d8d8d8;
+    color:orange;
+
 
 
 }

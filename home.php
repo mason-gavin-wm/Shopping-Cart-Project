@@ -60,34 +60,34 @@
 
     <div id="content-pic" >
 
-        <div id="pic-1">
+        <div id="pic-1" style="background-color:#434343;color:white;height:250px;">
 
-            <span>News</span>
-            <p><strong>Latest News:</strong> iApple have received a new shipment of iPad Pro's, iPad Air 2's, and iPad Air's! All starting from $600 or less!</p>
-            <p><strong>Jan. 8 2016:</strong> iApple have received a new shipment of iPhone 6s plus, iPone 6s, and iPhone 5s! Each Starting from $300 or less!</p>
-            <p><strong>Jan. 5 2016:</strong> iApple have received a new shipment of Apple Watches! In a variety of color (black, white, silver) and pricing starting from $650!</p>
+            <span>News</span><br>
+            <br><p><font style="color:gold;font-size:17px;">Latest News:</font> iApple have received a new shipment of iPad Pro's, iPad Air 2's, and iPad Air's! All starting from $600 or less!</p>
+            <p><font style="color:gold">Jan. 8 2016:</font> iApple have received a new shipment of iPhone 6s plus, iPone 6s, and iPhone 5s! Each Starting from $300 or less!</p>
+            <p><font style="color:gold">Jan. 5 2016:</font> iApple have received a new shipment of Apple Watches! In a variety of color (black, white, silver) and pricing starting from $650!</p>
 
 
 
         </div>
 
-        <div id="pic-2">
+        <div id="pic-2" style="background-color:#434343;color:white;height:250px;">
 
-            <span>About</span>
-            <p>iApple is all about selling the newest iPad's, iPhone's, and Apple Watch's at an affordable price to people like you who want the best products, but not there prices.</p>
-            <p>Every product is brand new and not open or used at all, we believe to make everyone up to date in today's fast pace modern times in technology.</p>
+            <span>About</span><br>
+            <br><p>iApple is all about selling the newest <font style="color:gold">iPad's</font>, <font style="color:gold">iPhone's</font>, and <font style="color:gold">Watch's</font> at an affordable price to people like you who want the best products, but not there prices.</p>
+            <br><p>Every product is brand new and not open or used at all, we believe to make everyone up to date in today's fast pace modern times in technology.</p>
             <p>To learn more about our company click <a href="about.php" style="text-decoration: underline; color:orange;">Here</a></p>
 
 
         </div>
 
-        <div id="pic-3">
+        <div id="pic-3" style="background-color:#434343;color:white;height:250px;">
 
-            <span>Contact</span>
-            <p><strong>To contact customer support</strong> please call the number below:<br>132-123-5678<br>
-                <strong>To report any problems</strong> your electronic may happen please call the number below:<br>654-937-0173 <br>
+            <span>Contact</span><br>
+            <br><p><strong>To contact customer support</strong> please call the number below:<br><font style="color:gold">132-123-5678</font><br><br>
+                <strong>To report any problems</strong> your electronic may happen please call the number below:<br><font style="color:gold">654-937-0173</font> <br><br>
                 <strong>Or send an email</strong> to this address:<br>
-            iSupport@iapple.org</p>
+                <font style="color:gold">iSupport@iapple.org</font></p>
 
 
 
@@ -96,9 +96,9 @@
 
     </div>
 
-    <div id="content-more-info" style="position:absolute;margin-top:150px;margin-left:46%">
+    <div id="content-more-info" style="position:absolute;margin-top:200px;margin-left:41%">
 
-        <h2>sdfasdfd </h2>
+        <h2 style="text-decoration: underline">Title placing goes here</h2>
 
 
 
