@@ -26,7 +26,7 @@
 
 <body>
 
-<div id="container">
+<div id="container" style="height:1000px;">
 
     <div id="H-navigation">
         <nav>

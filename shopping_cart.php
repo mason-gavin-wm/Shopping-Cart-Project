@@ -18,7 +18,7 @@
 
 <body>
 
-<div id="container">
+<div id="container" style="height:700px;">
 
     <div id="H-navigation">
         <nav>
@@ -49,20 +49,14 @@
         </nav>
     </div>
 
+<h1 style="margin-top:100px; text-align:center;"> Your Shopping Cart!(in progress still)</h1>
 
-
-
-    <div id="buttonz-slide">
-
-    </div>
-
-
-    <div id="content-pic">
+    <div id="content-pic" style="margin-top:125px;">
 
         <div id="pic-1">
 
-            <span>News</span>
-            <p>News about the new products</p>
+            <span  style="margin-left:10%;">Current Cart Items</span>
+            <p>This is were each item the eprson has added to their cart will show up</p>
 
 
 
@@ -70,16 +64,16 @@
 
         <div id="pic-2">
 
-            <span>About</span>
-            <p>About the company</p>
+            <span style="margin-left:10%;">Shipping and Handling Fees</span>
+            <p>This will be two random numbers that will be added to your total amount from your cart items</p>
 
 
         </div>
 
         <div id="pic-3">
 
-            <span>Contact</span>
-            <p>Contact info about the company</p>
+            <span  style="margin-left:20%">Purchase Now</span>
+            <p>BIG PURCHASE NOW BUTTON WITH TOTAL AMOUNT EVERYTHING THEY HAVE GOTTEN IS</p>
 
 
         </div>
