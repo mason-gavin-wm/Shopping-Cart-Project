@@ -63,64 +63,56 @@
 
     <div id="content-pic">
 
-        <div id="pic-1" style="height:500px;">
+        <div id="pic-1" style="height:450px;">
 
-            <span>iPad Pro </span>
+            <span style="color:gold;">iPad Pro </span>
 
             <img src="http://www.notebookcheck.net/typo3temp/_processed_/csm_4_zu_3_teaser_09_08a6d2673b.jpg" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$800</strong></div>
 
-                <h4>Features:</h4>
+                <h4><span style="color:#eaeaea;">Features:</span></h4>
+                        -32 GB<br>
+                        -12.9-inch (diagonal) LED-backlit widescreen Multi-Touch display<br>
+                        -2732-by-2048 resolution at 264 pixels per inch (ppi)<br>
 
-                    <div>sadfasdfasdf</div>
-
-            <button style="margin-left:38%">Add to Cart!</button>
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
-
+            <button style="text-align:center">Add to Cart!</button>
 
         </div>
 
-        <div id="pic-2" style="height:500px;">
+        <div id="pic-2" style="height:450px;">
 
-            <span>iPad Air 2</span>
+            <span style="color:gold;">iPad Air 2</span>
 
             <img src="http://content.abt.com/image.php/1_MGTX2LLA.jpg?image=/images/products/BDP_Images/1_MGTX2LLA.jpg&canvas=1&quality=100&min_w=450&min_h=320&ck=373" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$500</strong></div>
 
-                <h4>Features:</h4>
+            <h4><span style="color:#eaeaea;">Features:</span></h4>
+            -64 GB<br>
+            -9.7-inch (diagonal) LED-backlit widescreen Multi-Touch display with IPS technology<br>
+            -2048-by-1536-pixel resolution at 264 ppi<br>
 
-                    <div>asdfasdfasdf</div>
+            <button style="text-align:center">Add to Cart!</button>
 
-            <button style="margin-left:38%">Add to Cart!</button>
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
 
         </div>
 
-        <div id="pic-3" style="height:500px;">
+        <div id="pic-3" style="height:450px;">
 
-            <span>iPad Air</span>
+            <span style="color:gold;">iPad Air</span>
 
             <img src="http://b-i.forbesimg.com/patrickmoorhead/files/2013/11/iPad-Air.jpg" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$400</strong></div>
 
-                <h4>Features:</h4>
+            <h4><span style="color:#eaeaea;">Features:</span></h4>
+            -16 GB<br>
+            -9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology<br>
+            -2048-by-1536 resolution at 264 pixels per inch (ppi)<br>
 
-                    <div>asdfasdf</div>
+            <button style="text-align:center">Add to Cart!</button>
 
-            <button style="margin-left:38%">Add to Cart!</button>
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
 
 
         </div>

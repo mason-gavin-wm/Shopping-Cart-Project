@@ -67,63 +67,48 @@
 
         <div id="pic-1" style="height:500px;">
 
-            <span>Watch</span>
+            <span style="color:gold;">Watch</span>
 
             <img src="http://betanews.com/wp-content/uploads/2015/03/apple-watch-steel.jpg" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$400</strong></div>
 
-                <h4>Features:</h4>
+            <h4><span style="color:#eaeaea;">Features:</span></h4>
+            -38mm Stainless Steel Case with Milanese Loop<br>
 
-                    <div>sadfasdfasdf</div>
-
-            <button style="margin-left:38%">Add to Cart!</button>
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
+            <button style="text-align:center">Add to Cart!</button>
 
 
         </div>
 
         <div id="pic-2" style="height:500px;">
 
-            <span>Watch Sport</span>
+            <span style="color:gold;">Watch Sport</span>
 
 
             <img src="http://i-cdn.phonearena.com/images/articles/179791-image/Apple-Watch-Sport.jpg" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$600</strong></div>
 
-                <h4>Features:</h4>
+            <h4><span style="color:#eaeaea;">Features:</span></h4>
+            -42mm Stainless Steel Case Sport Band Blue<br>
 
-                    <div>asdfasdfasdf</div>
-
-            <button style="margin-left:38%">Add to Cart!</button>
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
+            <button style="text-align:center">Add to Cart!</button>
 
         </div>
 
         <div id="pic-3" style="height:500px;">
 
-            <span>Watch Edition</span>
+            <span style="color:gold;">Watch Edition</span>
 
             <img src="http://www.valuewalk.com/wp-content/uploads/2015/03/AW_Edition.jpg" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$8,500</strong></div>
 
-                <h4>Features:</h4>
+            <h4><span style="color:#eaeaea;">Features:</span></h4>
+            -42mm 18-Karat Rose Gold Case with Midnight Blue Classic Buckle)<br>
 
-                    <div>asdfasdf</div>
-
-            <button style="margin-left:38%">Add to Cart!</button>
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
+            <button style="text-align:center">Add to Cart!</button>
 
 
         </div>

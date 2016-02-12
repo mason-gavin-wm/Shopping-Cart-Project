@@ -33,21 +33,6 @@ if( ! empty($_POST["first_name"])){
     addInfo();
 }
 
-if (!$_POST['first_name']){
-    $error .='<p>Firstname is a required field!</p>';
-}
-if (!$_POST['last_name']){
-    $error .='<p>Lastname is a required field!</p>';
-}
-
-if (!$_POST['password']){
-    $error .='<p>Password is a required field!</p>';
-}
-if (!$_POST['email']){
-    $error .='<p>Email is a required field!</p>';
-}
-
-
 ?>
 <!DOCTYPE html>
 <html>

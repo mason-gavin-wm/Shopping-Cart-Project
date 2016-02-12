@@ -65,65 +65,53 @@
 
         <div id="pic-1" style="height:500px;">
 
-            <span>iPone 6s Plus </span>
+            <span style="color:gold;">iPone 6s Plus </span>
 
             <img src="http://img-teknosa.mncdn.com/TeknosaImg/productImages/1024x783/125071341-1-iphone_6_plus_16_gb_silver_akilli_telefon.jpg" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$749</strong></div>
 
-                <h4>Features:</h4>
+            <h4><span style="color:#eaeaea;">Features:</span></h4>
+            -32 GB<br>
+            -12.9-inch (diagonal) LED-backlit widescreen Multi-Touch display<br>
+            -2732-by-2048 resolution at 264 pixels per inch (ppi)<br>
 
-                        <div>sadfasdfasdf</div>
-
-            <button style="margin-left:38%">Add to Cart!</button>
-
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
+            <button style="text-align:center">Add to Cart!</button>
 
 
         </div>
 
         <div id="pic-2" style="height:500px;">
 
-            <span>iPone 6s</span>
+            <span style="color:gold;">iPone 6s</span>
 
             <img src="http://www.webantics.com/content/images/thumbs/0034787_apple-iphone-6s-plus-silicone-case-antique-white.jpeg" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$649</strong></div>
 
-                <h4>Features:</h4>
+            <h4><span style="color:#eaeaea;">Features:</span></h4>
+            -32 GB<br>
+            -12.9-inch (diagonal) LED-backlit widescreen Multi-Touch display<br>
+            -2732-by-2048 resolution at 264 pixels per inch (ppi)<br>
 
-                        <div>asdfasdfasdf</div>
-
-            <button style="margin-left:38%">Add to Cart!</button>
-
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
+            <button style="text-align:center">Add to Cart!</button>
 
         </div>
 
         <div id="pic-3" style="height:500px;">
 
-            <span>iPone 5s </span>
+            <span style="color:gold;">iPone 5s </span>
 
             <img src="https://www.houseofphonesng.com/wp-content/uploads/2015/11/iphone-5s-white.png" style="width:100%;height:50%;">
 
-            <div>Price:</div>
+            <div>Price: <strong style="color:orange">$450</strong></div>
 
-                <h4>Features:</h4>
+            <h4><span style="color:#eaeaea;">Features:</span></h4>
+            -32 GB<br>
+            -12.9-inch (diagonal) LED-backlit widescreen Multi-Touch display<br>
+            -2732-by-2048 resolution at 264 pixels per inch (ppi)<br>
 
-                        <div>asdfasdf</div>
-
-            <button style="margin-left:38%">Add to Cart!</button>
-
-                    <br>
-                            <div style="margin-left:44%">OR</div>
-
-            <button style="margin-left:39%">Buy Now!</button>
+            <button style="text-align:center">Add to Cart!</button>
 
 
         </div>
