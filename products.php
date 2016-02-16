@@ -55,8 +55,6 @@
         </div>
     </section>
 
-<h1 style="margin-top:230px;margin-left:25%;position:absolute;text-decoration: underline">THESE PRODUCTS ARE THE BEST AROUND</h1>
-    <p class="text" style="margin-top:295px;">THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K THIS IS BLAH BLAH BLAH BLAH  BKLABHA KBLBLAJB K AJKBAKJD KA K</p>
 
 
     <div id="content-pic" >

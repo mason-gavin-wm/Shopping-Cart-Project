@@ -59,32 +59,32 @@
 
     <div id="content-more-info" style="position:absolute;margin-top:125px;width:100%;">
 
-        <h2 style="text-decoration: underline; font-size: 30px; text-align:center;">About</h2>
+        <h2 style="text-decoration: underline; font-size: 35px; text-align:center;">About Us</h2>
 
-            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
+            <p style="font-size:30px;text-align:center;">iApple is a fairly new company that is raising the competition in Appleware. Our Appleware is 100% better than the rest! The secret to
+            beat them all is... lower pricing with better quality! </p>
 
-            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
-
-            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
-
-            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
-
-            <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
+            <p style="font-size:25px;text-align:center;">We only use what's best for each product depend on what it is, for example our watches--since a person uses it everyday through ever weather--needs to be
+                everlasting with zero problems no matter what. iApple stands for one things, making our customers never need to call unless they want to compliment our services due to
+                us having the best quality around!</p>
 
 
-        <h2 style="text-decoration: underline; font-size: 30px; text-align:center;">What do we sell?</h2>
+        <h2 style="text-decoration: underline; font-size: 35px; text-align:center;">What do we sell?</h2>
 
-                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
+                <p style="font-size:30px;text-align:center;">Here at iApple we sell top-notch quality <font style="color:#cb5935">iPad's</font>, <font style="color:#cb5935">iPhone's</font>, and <font style="color:#cb5935">Watches</font>.</p>
 
-                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
+                <p style="font-size:25px;text-align:center;">Each product is produce with the highest quality metal which *will never crack no matter the fall*! Our iPad's are produced with high grade aluminum found in the deepest mines in world!
+                Our iPhone's are made from the metal cobalt found in Australia, this metal which is lightweight, durable, and reliable. Lastly, our Watches are made purely from gold, the most dependable metal and luxurious in the world.
+                The Watches are created through a two week produce to insure that they are indestructible and **water proof**, to last through anything that may come your way.</p>
 
-                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
+                <p style="margin-left:15%"> </p>
 
-        <h2 style="text-decoration: underline; font-size: 30px; text-align:center;">How did we come to be?</h2>
+        <h2 style="text-decoration: underline; font-size: 35px; text-align:center;">How did we come to be?</h2>
 
-                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
+                <p style="font-size:30px;text-align:center;">iApple first opened its doors in 2013 and has been growing ever since at rapid rates due to our #1 customer service and quality.</p>
 
-                <p style="margin-left:15%">This is example text. This is example text. This is example text. This is example text. This is example text. This is example text. This is example text.</p>
+                <p style="font-size:25px;text-align:center;">For the past two years iApple have been awarded best quality in products because of the high grade metal we use that never breaks or loses its durability though
+                the years of our customers using our products.</p>
 
 
 

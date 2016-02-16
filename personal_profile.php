@@ -97,6 +97,7 @@ if( ! empty($_POST["first_name"])){
         <button type="submit">Sign up/in Now</button>
 
     </form>
+        <p>*(I only got it so that you can put in anything in anyone of these and it will add to my database for this site.)*</p>
     </div>
 
 

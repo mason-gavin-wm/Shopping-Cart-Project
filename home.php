@@ -99,7 +99,7 @@
 
     <div id="content-more-info" style="position:absolute;margin-top:200px;margin-left:41%">
 
-        <h2 style="text-decoration: underline">Title placing goes here</h2>
+        <h2 style="text-decoration: underline"></h2>
 
 
 
