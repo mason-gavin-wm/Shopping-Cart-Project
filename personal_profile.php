@@ -78,14 +78,15 @@ if( ! empty($_POST["first_name"])){
     </div>
     <div id="sign_up/in" style="text-align:center;">
 
-<h2 style="margin-top:125px;color:orange;">Sign Up/In Here!</h2>
+<h2 style="margin-top:175px;color:orange;">Sign Up/In Here!</h2>
 
-    <form name="form" method="post" style="display: list-style-type:none;">
-        <h3>First Name:</h3>
+    <form name="form" method="post" action="shopping_cart.php" style="display: list-style-type:none;">
+        <label for="first_name">First Name:</label>
 
-        <input type="text" name="first_name">
+        <input  type="text" name="first_name">
 
-        <h3>Last Name:</h3>
+        <label for="last_name">Last Name:</label>
+
         <input type="text" name="last_name">
 
         <h3>Password:</h3>

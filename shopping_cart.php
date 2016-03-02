@@ -48,10 +48,65 @@
 
         </nav>
     </div>
+<div style="margin-top:100px;text-align:center;font-size:28px;">
+    <?php
 
-<h1 style="margin-top:100px; text-align:center;"> Your Shopping Cart!(in progress still)</h1>
+    $first_name = $_POST['first_name'];
 
-    <div id="content-pic" style="margin-top:125px;">
+    $last_name = $_POST['last_name'];
+
+    $name = $first_name . " " . $last_name;
+
+    echo "Hello, " . $name . "!";
+
+    ?>
+    <br><br><br>Go and shop now! Click <a href="products.php" style="color:orange">Here</a>
+</div>
+
+<div id="cart" style="td, th {width: 8em; border: 1px solid black; padding-left: 4px;} th {text-align:center;} table {border-collapse: collapse; position:absolute; margin-top:220px;} ">
+   <table>
+       <tr>
+           <th><?php echo $name; ?></th>
+       </tr>
+       <tr>
+
+           <td>
+
+           </td>
+           
+           <td>
+
+           </td>
+
+           <td>
+
+           </td>
+
+       </tr>
+       <tr>
+
+           <td>
+
+           </td>
+
+           <td>
+
+           </td>
+
+           <td>
+
+           </td>
+
+       </tr>
+   </table>
+
+
+</div>
+
+
+
+
+    <div id="content-pic" style="margin-top:225px;">
 
         <div id="pic-1">
 

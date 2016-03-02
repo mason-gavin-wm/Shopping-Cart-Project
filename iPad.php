@@ -67,7 +67,7 @@
 
             <span style="color:gold;">iPad Pro </span>
 
-            <img src="http://www.notebookcheck.net/typo3temp/_processed_/csm_4_zu_3_teaser_09_08a6d2673b.jpg" style="width:100%;height:50%;">
+            <img src="http://cdn.gsmarena.com/imgroot/news/15/11/ipad-pro-pre-orders/-728xw3/gsmarena_001.jpg" style="width:100%;height:50%;">
 
             <div>Price: <strong style="color:orange">$800</strong></div>
 

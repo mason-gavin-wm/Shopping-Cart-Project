@@ -72,9 +72,10 @@
             <div>Price: <strong style="color:orange">$749</strong></div>
 
             <h4><span style="color:#eaeaea;">Features:</span></h4>
-            -32 GB<br>
-            -12.9-inch (diagonal) LED-backlit widescreen Multi-Touch display<br>
-            -2732-by-2048 resolution at 264 pixels per inch (ppi)<br>
+            -64 GB<br>
+            -5.5-inch display<br>
+            -1920-by-1080-pixel resolution at 401 ppi<br>
+            <br>
 
             <button style="text-align:center">Add to Cart!</button>
 
@@ -90,9 +91,10 @@
             <div>Price: <strong style="color:orange">$649</strong></div>
 
             <h4><span style="color:#eaeaea;">Features:</span></h4>
-            -32 GB<br>
-            -12.9-inch (diagonal) LED-backlit widescreen Multi-Touch display<br>
-            -2732-by-2048 resolution at 264 pixels per inch (ppi)<br>
+            -64 GB<br>
+            -4.7-inch display<br>
+            -1334-by-750-pixel resolution at 326 ppi<br>
+            <br>
 
             <button style="text-align:center">Add to Cart!</button>
 
@@ -108,8 +110,9 @@
 
             <h4><span style="color:#eaeaea;">Features:</span></h4>
             -32 GB<br>
-            -12.9-inch (diagonal) LED-backlit widescreen Multi-Touch display<br>
-            -2732-by-2048 resolution at 264 pixels per inch (ppi)<br>
+            -4-inch display<br>
+            -1136-by-640-pixel resolution at 326 ppi<br>
+     <br>
 
             <button style="text-align:center">Add to Cart!</button>
 
